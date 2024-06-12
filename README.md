@@ -1,7 +1,5 @@
 # CIS210
 
-========================================================================================================================================================================================
-
 ## Summarize the project and what problem it was solving.
 
 This project is designed to help a grocery store organize and interpret a list of all items sold at the grocery store in the form of a .txt file and translate it into meaningful data for the store to use. 
